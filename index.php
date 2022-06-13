@@ -1,5 +1,5 @@
 <?php 
-echo "Hello Daniyal";
+echo "Hello Daniyal!";
 ?>
 
 /usr/share/nginx/html
