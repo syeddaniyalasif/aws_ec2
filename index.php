@@ -2,4 +2,4 @@
 echo "Hello Daniyal!";
 ?>
 
-/usr/share/nginx/html
+/usr/share/nginx/html/aws_ec2/index.php
